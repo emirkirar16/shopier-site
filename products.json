@@ -1,0 +1,11 @@
+{
+    "items": [
+        {
+            "title": "Örnek Ürün",
+            "description": "Açıklama",
+            "price": "299 TL",
+            "image": "/uploads/ornek.jpg",
+            "shopier": "https://www.shopier.com/XXXX"
+        }
+    ]
+}
